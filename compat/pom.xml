@@ -57,7 +57,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.4.55.v20240627</version>
+            <version>9.4.56.v20240826</version>
             <scope>test</scope>
         </dependency>
         <dependency>
@@ -81,7 +81,7 @@
         <dependency>
             <groupId>org.apache.parquet</groupId>
             <artifactId>parquet-avro</artifactId>
-            <version>1.15.0</version>
+            <version>1.15.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.hadoop</groupId>
